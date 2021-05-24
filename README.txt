@@ -1,4 +1,4 @@
-@author Luz Divina Delgado Castañeda (25724967L)
+@author Luz Divina Delgado Castañeda
 
 La práctica está totalmente implementada y compila correctamente.
 
